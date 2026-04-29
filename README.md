@@ -6,38 +6,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=SVA;Adhithiya+Sv" alt="Typing banner with name and tagline" />
 </p>
 
-<h1 align="center">Hi, I'm Adhithiya Sv</h1>
-<p align="center">I love shipping open-source projects and exploring how code can make workflows simpler and smarter.</p>
+<h1 align="center">Hello, I'm Adhithiya Sv</h1>
+
 
 <!-- Internal Navigation -->
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#currently-building">Currently Building</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#pinned-repositories">Pinned Repositories</a> •
   <a href="#stats">Stats</a> •
-  <a href="#leetcode">LeetCode</a> •
   <a href="#contact">Contact</a>
 </p>
 
 ---
 
+
 <h2 id="about" align="center">About</h2>
 <p align="center">
-  I enjoy learning by building and turning small ideas into real, usable projects.<br>
-  Focused on reliability, automation, and developer experience.
+  just going with the flow.
 </p>
 
 ---
-
-<h2 id="currently-building" align="center">Currently Building</h2>
-<p align="center">
-  <b>Deadlink</b> &mdash; Detects, snapshots, and auto-heals broken or drifted links in codebases.<br>
-  <i>Tech Used:</i> Node.js, React, MongoDB, Express
-</p>
-
----
-
 <h2 id="tech-stack" align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
@@ -59,55 +48,46 @@
 
 <h2 id="pinned-repositories" align="center">Pinned Repositories</h2>
 <p align="center">
-  <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a> &mdash; Detect, snapshot, and protect your codebase from dead or silently changed links. Full-stack GitHub-integrated tool that scans your project, archives references, tracks content drift over time, and automates link healing.<br>
-  <a href="https://github.com/Sva0-0/Cosmic-dApp"><b>Cosmic-dApp</b></a> &mdash; Retro pixel-themed dApp for buying and trading COSMIC tokens on the Andromeda blockchain.<br>
-  <a href="https://github.com/Sva0-0/Metaworld-os"><b>Metaworld-os</b></a> &mdash; Modular universe platform experiment on the Andromeda Protocol.
+  <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a>  
+  <a href="https://github.com/Sva0-0/Cosmic-dApp"><b>Cosmic-dApp</b></a>  
+  <a href="https://github.com/Sva0-0/Metaworld-os"><b>Metaworld-os</b></a> 
 </p>
 
 ---
 
-<h2 id="notable-repositories" align="center">Other Notable Repositories</h2>
+<h2 id="achievements" align="center">Achievements </h2>
 <p align="center">
-  <a href="https://github.com/Sva0-0/Periodic-Table"><b>Periodic-Table</b></a> &mdash; A modern, interactive Periodic Table desktop app built with Python and Tkinter.<br>
-  <a href="https://github.com/Sva0-0/Flappy"><b>Flappy</b></a> &mdash; A simple Flappy Bird clone written in Python using Pygame.
-</p>
+  <b>Andromeda open source protocol.<br>
 
----
-
-<h2 id="achievements" align="center">Achievements & Community</h2>
-<p align="center">
-  <b>Open Source Advocate</b> &mdash; Actively building and sharing tools for the developer community.<br>
-  <b>Learning & Exploring</b> &mdash; Always experimenting with new tech, frameworks, and automation.<br>
-  <b>Community Engagement</b> &mdash; Open to collaboration, feedback, and new ideas.
 </p>
 
 ---
 
 <h2 id="stats" align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sva0-0&show_icons=true&theme=tokyonight" alt="GitHub stats for Sva0-0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhithiyasv&show_icons=true&theme=tokyonight" alt="GitHub stats for Sva0-0" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sva0-0&layout=compact&theme=tokyonight" alt="Top languages used by Sva0-0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithiyasv&layout=compact&theme=tokyonight" alt="Top languages used by Sva0-0" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sva0-0&theme=tokyonight" alt="GitHub activity graph for Sva0-0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhithiyasv&theme=tokyonight" alt="GitHub activity graph for Sva0-0" />
 </p>
 
 ---
 
 <h2 id="leetcode" align="center">LeetCode</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sva0_0?ext=contest&theme=dark" alt="LeetCode stats for Sva0_0" />
+  <img src="https://leetcard.jacoblin.cool/adhithiyasv?theme=dark&font=Sawarabi%20Gothic&ext=heatmap" alt="LeetCode stats for Sva0_0" />
 </p>
 
 ---
 
 <h2 id="contact" align="center">Contact</h2>
 <p align="center">
-  <a href="mailto:sva.adhithiya@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="mailto:adhithiya.sv.contact@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/adhithiya-sv/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://x.com/Sva_adhithiya">X (Twitter)</a>
+  <a href="https://x.com/adhithiyasv">X (Twitter)</a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sva0-0&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adhithiyasv&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
 </p>
 
