@@ -15,7 +15,6 @@
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#pinned-repositories">Pinned Repositories</a> •
   <a href="#stats">Stats</a> •
-  <a href="#contact">Contact</a>
 </p>
 
 ---
@@ -81,12 +80,7 @@
 
 ---
 
-<h2 id="contact" align="center">Contact</h2>
-<p align="center">
-  <a href="mailto:adhithiya.sv.contact@gmail.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/adhithiya-sv/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://x.com/adhithiyasv">X (Twitter)</a>
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adhithiyasv&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
 </p>
