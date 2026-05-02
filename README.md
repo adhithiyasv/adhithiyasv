@@ -47,9 +47,9 @@
 
 <h2 id="pinned-repositories" align="center">Pinned Repositories</h2>
 <p align="center">
-  <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a>  
-  <a href="https://github.com/Sva0-0/Cosmic-dApp"><b>Cosmic-dApp</b></a>  
-  <a href="https://github.com/Sva0-0/Metaworld-os"><b>Metaworld-os</b></a> 
+  <a href="https://github.com/adhithiyasv/Deadlink"><b>Deadlink</b></a>  
+  <a href="https://github.com/adhithiyasv/Cosmic-dApp"><b>Cosmic-dApp</b></a>  
+  <a href="https://github.com/adhithiyasv/Metaworld-os"><b>Metaworld-os</b></a> 
 </p>
 
 ---
@@ -64,24 +64,24 @@
 
 <h2 id="stats" align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhithiyasv&show_icons=true&theme=tokyonight" alt="GitHub stats for Sva0-0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhithiyasv&show_icons=true&theme=tokyonight" alt="GitHub stats for adhithiyasv" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithiyasv&layout=compact&theme=tokyonight" alt="Top languages used by Sva0-0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithiyasv&layout=compact&theme=tokyonight" alt="Top languages used by adhithiyasv" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhithiyasv&theme=tokyonight" alt="GitHub activity graph for Sva0-0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhithiyasv&theme=tokyonight" alt="GitHub activity graph for adhithiyasv" />
 </p>
 
 ---
 
 <h2 id="leetcode" align="center">LeetCode</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/adhithiyasv?theme=dark&font=Sawarabi%20Gothic&ext=heatmap" alt="LeetCode stats for Sva0_0" />
+  <img src="https://leetcard.jacoblin.cool/adhithiyasv?theme=dark&font=Sawarabi%20Gothic&ext=heatmap" alt="LeetCode stats for adhithiyasv" />
 </p>
 
 ---
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhithiyasv&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adhithiyasv&theme=tokyonight&no-frame=true" alt="GitHub Trophies for adhithiyasv" />
 </p>
 
