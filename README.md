@@ -6,19 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=SVA;Adhithiya+Sv" alt="Typing banner with name and tagline" />
 </p>
 
-<h1 align="center">Hello, I'm Adhithiya Sv</h1>
+<h1 align="center">Hello, iam me and me is i</h1>
 
-
-<!-- Internal Navigation -->
 <p align="center">
   <a href="#about">About</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#pinned-repositories">Pinned Repositories</a> •
   <a href="#stats">Stats</a> •
+  
 </p>
 
 ---
-
 
 <h2 id="about" align="center">About</h2>
 <p align="center">
@@ -26,11 +23,16 @@
 </p>
 
 ---
+
 <h2 id="tech-stack" align="center">Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express badge" />
@@ -45,43 +47,35 @@
 
 ---
 
-<h2 id="pinned-repositories" align="center">Pinned Repositories</h2>
+<h2 id="stats" align="center">GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://github.com/adhithiyasv/Deadlink"><b>Deadlink</b></a>  
-  <a href="https://github.com/adhithiyasv/Cosmic-dApp"><b>Cosmic-dApp</b></a>  
-  <a href="https://github.com/adhithiyasv/Metaworld-os"><b>Metaworld-os</b></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=adhithiyasv&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhithiyasv&theme=tokyonight" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithiyasv&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhithiyasv&theme=tokyonight" alt="Activity graph" />
 </p>
 
 ---
 
-<h2 id="achievements" align="center">Achievements </h2>
-<p align="center">
-  <b>Andromeda open source protocol.<br>
+<h2 id="leetcode" align="center">LeetCode Rating</h2>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adhithiyasv?theme=dark&ext=contest" alt="LeetCode contest rating" />
 </p>
 
 ---
-
-<h2 id="stats" align="center">Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhithiyasv&show_icons=true&theme=tokyonight" alt="GitHub stats for adhithiyasv" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithiyasv&layout=compact&theme=tokyonight" alt="Top languages used by adhithiyasv" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhithiyasv&theme=tokyonight" alt="GitHub activity graph for adhithiyasv" />
-</p>
-
----
-
-<h2 id="leetcode" align="center">LeetCode</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adhithiyasv?theme=dark&font=Sawarabi%20Gothic&ext=heatmap" alt="LeetCode stats for adhithiyasv" />
-</p>
-
----
-
+<h2 align="center">Codeforces</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhithiyasv&theme=tokyonight&no-frame=true" alt="GitHub Trophies for adhithiyasv" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=adhithiyasv" />
 </p>
-
